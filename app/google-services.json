@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "853806904314",
+    "firebase_url": "https://cheashu-e195e.firebaseio.com",
+    "project_id": "cheashu-e195e",
+    "storage_bucket": "cheashu-e195e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853806904314:android:a482b55336b160bcc8aa43",
+        "android_client_info": {
+          "package_name": "com.bcebhagalpur.cheashu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853806904314-vbdnqomvic6q76odi03hdutsq43jvi3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bcebhagalpur.cheashu",
+            "certificate_hash": "524026c110fb45b811edf12519afa80efffdea17"
+          }
+        },
+        {
+          "client_id": "853806904314-l23ilb2admpe9e0sk23urc77r9aejorb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeh3MIrDC7Em8516jZmYgdUMyHqjnXAWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853806904314-l23ilb2admpe9e0sk23urc77r9aejorb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
